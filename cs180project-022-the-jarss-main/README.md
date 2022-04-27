@@ -1,5 +1,5 @@
 # This is a cloned repository
-There were four other people who worked on this project. I will not name them in case they wish to remain anonymous. This group strived to keep the amount of work among themselves as equal as possible.
+There were four other people who worked on this project. This group strived to keep the amount of work among themselves as equal as possible. Sprint documents tracked the work done by each person.
 
 # cs180project-022-the-jarss
 cs180project-022-the-jarrs created by GitHub Classroom
